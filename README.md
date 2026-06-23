@@ -1,3 +1,5 @@
+Bu proje, kapsamlı bir   Eğitim Kampı sürecinde geliştirilmiştir. 
+
 # 🌤️ Proje 6 – Şehirler ve Hava Durumu API’si
 
 ## 📘 Proje Açıklaması
